@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author = Faraz Behrouzieh
-# This script gets a file as input and determines if it is a regular file or a directory.
+# This script gets a file as input and determines the file type.
 THEFILE=$1
 
 
